@@ -15,7 +15,6 @@
       <concept id="6319434675183600984" name="SoseL21.structure.Worksheet" flags="ng" index="2$au42">
         <child id="6319434675183600987" name="statements" index="2$au41" />
       </concept>
-      <concept id="6319434675183600990" name="SoseL21.structure.Statement" flags="ng" index="2$au44" />
       <concept id="6319434675183601001" name="SoseL21.structure.Reference" flags="ng" index="2$au4N">
         <reference id="6319434675183601002" name="variable" index="2$au4K" />
       </concept>
@@ -44,9 +43,8 @@
     <node concept="2$au4N" id="4GRsCODyDms" role="2$au41">
       <ref role="2$au4K" node="4GRsCODywqW" resolve="iVar2" />
     </node>
-    <node concept="2$au44" id="4GRsCODzi3d" role="2$au41" />
-    <node concept="2$au4N" id="4GRsCODzi3s" role="2$au41">
-      <ref role="2$au4K" node="4GRsCODywqW" resolve="iVar2" />
+    <node concept="2$au4N" id="2b_rTYwPJX3" role="2$au41">
+      <ref role="2$au4K" node="4GRsCODywqC" resolve="iVar1" />
     </node>
   </node>
 </model>
